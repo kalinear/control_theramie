@@ -1,0 +1,26 @@
+# Deploy Manifest ID: 1WIMKWXFUMCJPT5DNY7S3QISJUL6YF
+# Automated Deploy by ED through GitOps
+
+################################
+# Repo/Commit Info
+################################
+
+**** https://github.com/kalinear/theramie_website ****
+commit_url: https://github.com/kalinear/theramie_website/commit/2e4875df33a1cf227d3fdb5aafb1ad536adbcadb
+commit_hash: 2e4875df33a1cf227d3fdb5aafb1ad536adbcadb
+message: testing auto generated deploy from elasticdev
+
+author: kalinear
+committer: kalinear
+authored_date: 2018-06-06 15:44:11
+committed_date: 2018-06-06 15:44:11
+
+################################
+# Environment Variables from build
+################################
+
+DOCKER_FILE: elasticdev/configs/build/Dockerfile
+SSH_PORT: 22001
+DOCKER_IMAGE_NAME: WVSGJUJJGEUOUHQA
+DOCKER_IMAGE_TAG: WVSGJUJJGEUOUHQA
+DOCKER_IMAGE_THERAMIE: docker.io/theramie/theramie-website:WVSGJUJJGEUOUHQA
